@@ -1,4 +1,7 @@
-# 04_ACCESS_POINT
+# 07.ACCESS_POINT
+## NOTE:
+This program will run only on the *ESP32* board, as it is using the capacitive touch functionality.
+
 To run the program use the following ampy command
 
 ## MAC OS
